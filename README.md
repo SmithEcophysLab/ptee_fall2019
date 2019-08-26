@@ -6,6 +6,7 @@ course at TTU (BIOL 4301-029/6301-029).
 * The class syllabi can be found in the [Syllabus](Syllabus) folder.
 Note that different syllabi exist for the graduate section of the course (BIOL 6301)
 and the undergraduate section (BIOL 4301) of the course.
+* Daily readings can be found in the [Readings](Readings) folder.
 * The daily class notes can be found in the [Notes](Notes) folder.
 * Presentation slides will be posted to the [Lecture_Slides](Lecture_Slides) folder.
 
