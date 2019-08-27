@@ -28,6 +28,6 @@ Contact [Nick](mailto:nick.smith@ttu.edu) if you have any issues.
 and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/library/)).
 
 ## In-class notes
-
+- change deliverable to review in schedule
 
 ## Post class notes
