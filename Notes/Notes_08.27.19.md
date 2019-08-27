@@ -14,6 +14,7 @@
 5. [Course website](https://github.com/SmithEcophysLab/ecophys_sp2019)
 	- [link to user guide](user_guide.md)
 6. Finding and reading scientific literature
+7. Indicate discussion topic preferences
 
 ## Homework
 * Navigate to course website and familiarize yourself with the structure.
