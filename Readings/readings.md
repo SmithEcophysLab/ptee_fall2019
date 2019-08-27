@@ -9,7 +9,8 @@ summary of the reading as well as two questions that arose during the reading.
 Chapter 1 of textbook
 
 ### September 5
-Odum (1969). The strategy of ecosystem development. *Science* 164: 262-270.
+Vitousek et al. (1997). Human Domination of Earth's Ecosystems. *Science* 277(5325): 494-499.
+*OPTIONAL*: Foley et al. (2005). Global Consequences of Land Use. *Science* 309(5734): 570-574.
 
 ### September 10
 Chapters 2-3 of textbook
