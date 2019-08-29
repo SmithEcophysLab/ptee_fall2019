@@ -1,12 +1,11 @@
 # Topic leads for Thursday discussions
 
 ### September 12 - climate and soils
-- Ezra Auerbach
+- Evan Perkowski
 - Morgan Long
 
 ### September 19 - water and energy balance
 - Evan Perkowski
-- Jacob Windsor
 - Mark Lee
 
 ### September 26 - carbon
