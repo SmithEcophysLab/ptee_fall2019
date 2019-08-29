@@ -23,3 +23,4 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 ## In-class notes
 
 ## Post class notes
+- have students think of Ecosystem services in the "systems thinking" activity before beginning activity
