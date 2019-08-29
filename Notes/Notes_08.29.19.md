@@ -7,7 +7,7 @@
 ## Agenda
 1. Questions and concerns from "syllabus day"
 2. Topic Lead assignments
-	- [link to topic leads](../Topic_leads/topic_leads.md)
+	- [link to topic leads](../Topic_Leads/topic_leads.md)
 3. Lecture on Chapter 1 *The Ecosystem Concept*
 	- [link to slides](../Lecture_Slides/1_ecosystem_concept.pdf)
 4. Exercise on system thinking
