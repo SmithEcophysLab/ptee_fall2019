@@ -5,7 +5,7 @@
 - Morgan Long
 
 ### September 19 - water and energy balance
-- Evan Perkowski
+- Jacob Windsor
 - Mark Lee
 
 ### September 26 - carbon
