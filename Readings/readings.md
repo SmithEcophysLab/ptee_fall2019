@@ -17,7 +17,9 @@ Vitousek et al. (1997). Human Domination of Earth's Ecosystems. *Science* 277(53
 Chapters 2-3 of textbook
 
 ### September 12
-TBD
+Classen, AT, MK Sundqvist, JA Henning, GS Newman, JAM Moor, MA Cregger, LC Moorhead, 
+CM Patterson. 2015. Direct and indirect effects of climate change on soil microbial 
+and soil microbial-plant interactions: What lies ahead? *Ecosphere* 6(8): 1-21.
 
 ### September 17
 Chapter 4 of textbook
