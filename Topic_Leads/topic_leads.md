@@ -15,6 +15,7 @@
 ### October 17 - nutrients
 - Brett Andersen
 - Juan Garcia-Cancel
+- Riley Risinger
 
 ### October 24 - species and trophic dynamics
 - Madison Valdez
