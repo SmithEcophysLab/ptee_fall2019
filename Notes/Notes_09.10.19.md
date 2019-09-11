@@ -1,4 +1,4 @@
-# Notes for class on September 5, 2019
+# Notes for class on September 10, 2019
 
 ## Objectives
 * Discuss climate and soil impacts on ecosystems
