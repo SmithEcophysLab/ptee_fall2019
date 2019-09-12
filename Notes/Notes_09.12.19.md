@@ -9,9 +9,9 @@
 	- [link to slides with information](../Miscellaneous/BioBlitz/BIOBLITZ FLIER_PPT.pdf)
 2. Chat about literature reviews
 	- [newly uploaded resource](../Literature_Review/literature_review_description.md)
-2. MiniQuiz 2
+3. MiniQuiz 2
 	- [link to miniquiz2](../Mini_Quizzes/miniquiz2_09.12.19.pdf)
-3. Discussion of Classen et al. (2015)
+4. Discussion of Classen et al. (2015)
 
 ## Homework
 * Read Chapter 4
