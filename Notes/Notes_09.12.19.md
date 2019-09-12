@@ -6,7 +6,7 @@
 
 ## Agenda
 1. BioBlitz 2019 at Tahoka Lake Pasture - September 27-28
-	- [link to slides with information](../Miscellaneous/BioBlitz/BIOBLITZ FLIER_PPT.pdf)
+	- [link to slides with information](../Miscellaneous/BioBlitz/BIOBLITZ_FLIER_PPT.pdf)
 2. Chat about literature reviews
 	- [newly uploaded resource](../Literature_Review/literature_review_description.md)
 3. MiniQuiz 2
