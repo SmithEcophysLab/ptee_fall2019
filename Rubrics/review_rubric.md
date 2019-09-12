@@ -31,6 +31,9 @@ central theme as a way to guide future research. Important terms may be defined 
 a glossary and important concepts may be fleshed out in boxes. Conceptual diagrams and
 figures may be useful. Note that these can be redrawn from other articles provided that
 proper citation is given.
+**Note: Reviews should review a problem or question, not a single paper!**
+An expanded description of a successful literature review can be found in the
+[Literature_Review folder](../Literature_Review/literature_review_description.md)
 
 ## Grading Rubric (100 points total)
 
