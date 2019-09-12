@@ -25,7 +25,9 @@ and soil microbial-plant interactions: What lies ahead? *Ecosphere* 6(8): 1-21.
 Chapter 4 of textbook
 
 ### September 19
-TBD
+Zipper SC, Lamontagne-Hallé P, McKenzie JM, Rocha A V. 2018. 
+Groundwater Controls on Postfire Permafrost Thaw: Water and Energy Balance Effects. 
+*Journal of Geophysical Research: Earth Surface* 123: 2677–2694.
 
 ### September 24
 Chapters 5-7 of textbook
