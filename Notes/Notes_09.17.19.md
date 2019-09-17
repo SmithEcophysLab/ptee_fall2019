@@ -4,7 +4,11 @@
 * Explore ecosystem energy and water budgets
 
 ## Agenda
-1. Lecture on energy and water budgets
+1. Even notification: Science by the Glass tonight at 6 at The Local
+	- Robert Forbis (TTU prof): Environmental Activism - heroes or enemies?
+	- Free and open to the public
+	- Doors at 5
+2. Lecture on energy and water budgets
 	- [link to slides](../Lecture_Slides/5_energy_water.pdf)
 
 ## Homework
