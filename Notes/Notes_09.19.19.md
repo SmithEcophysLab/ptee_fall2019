@@ -5,9 +5,14 @@
 * Connect to fires in permafrost areas
 
 ## Agenda
-1. Miniquiz 3
+1. Taking notes while reading journal articles
+	- [link to printable notebook](../Miscellaneous/note_taking_help/journal_article_notebook.pdf)
+2. Miniquiz 3
 	- [link to Miniquiz 3](../Mini_Quizzes/miniquiz3_09.19.19.pdf)
-2. Discussion of Zipper et al. (2018)
+3. (Time permitting) Finish lecture on water
+	- left off at transpiration
+	- [link to slides](../Lecture_Slides/5_energy_water.pdf)
+4. Discussion of Zipper et al. (2018)
 	- Leads: Jacob and Mark
 
 ## Homework
