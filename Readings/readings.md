@@ -33,13 +33,17 @@ Groundwater Controls on Postfire Permafrost Thaw: Water and Energy Balance Effec
 Chapters 5-7 of textbook
 
 ### September 26
-TBD
+Baer SG, Kitchen DJ, Blair JM, Rice CW. 2002. 
+Changes in ecosystem structure and function along a chronosequence of restored grasslands. 
+*Ecological applications* 12: 1688–1701.
 
 ### October 15
 Chapters 8-9 of textbook
 
 ### October 17
-TBD
+Palta MM, Grimm NB, Groffman PM. 2017. 
+“Accidental” urban wetlands: ecosystem functions in unexpected places. 
+*Frontiers in Ecology and the Environment* 15: 248–256.
 
 ### October 22
 Chapters 10-11 of textbook
