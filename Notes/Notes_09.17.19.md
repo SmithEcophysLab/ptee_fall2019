@@ -4,7 +4,7 @@
 * Explore ecosystem energy and water budgets
 
 ## Agenda
-1. Even notification: Science by the Glass tonight at 6 at The Local
+1. Event notification: Science by the Glass tonight at 6 at The Local
 	- Robert Forbis (TTU prof): Environmental Activism - heroes or enemies?
 	- Free and open to the public
 	- Doors at 5
