@@ -5,7 +5,8 @@
 
 ## Agenda
 1. Discuss review idea proposals
-	- [link to presentation schedule]()
+	- [link to information](../Review_proposals/review_proposal_information.md)
+	- Undergrads: Need group information to post schedule
 2. Lecture on carbon
 	- [link to slides](../Lecture_Slides/6_carbon.pdf)
 
