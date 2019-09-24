@@ -17,6 +17,8 @@ The written proposal should include the following aspects:
 3. Systems-level aspects of the project
 4. Relevance of the review to society
 5. Short description of the review including the materials and methods to be used
+	- What are you're intended main components?
+	- What search terms will you use to find papers?
 
 ### Oral presentation (suggested length: 5 minutes)
 The oral presentation should succinctly introduce the components of the written proposal.
