@@ -14,6 +14,7 @@
 
 ## Homework
 * Complete review paper proposal document and presentation
+	- [informational guide](../Review_proposals/review_proposal_information.md)
 * No class next week
 
 ## In-class notes
