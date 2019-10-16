@@ -4,7 +4,10 @@
 * Continue discussing nutrient dynamics in terrestrial ecosystems
 
 ## Agenda
-1. Miniquiz 5
+1. Note about grades
+	- Dr. Smith can calculate your grade to this point
+		- send Dr. Smith an [email](mailto:nick.smith@ttu.edu) to set up a time to do this
+2. Miniquiz 5
 	- [link to Miniquiz 5](../Mini_Quizzes/miniquiz5_10.17.19.pdf)
 2. Discussion of Palta et al. (2017)
 	- Leads: Juan, Brett, Riley
