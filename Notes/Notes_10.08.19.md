@@ -22,3 +22,5 @@
 ## In-class notes
 
 ## Post class notes
+- barely enough time to get through 6
+- feedback worked

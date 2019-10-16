@@ -14,3 +14,6 @@
 ## In-class notes
 
 ## Post class notes
+- lecture felt a little discombobulated
+- not enough time for discussion / activities
+	- need to build more of these in (not sure how?)

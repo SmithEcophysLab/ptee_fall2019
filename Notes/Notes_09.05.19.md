@@ -19,3 +19,5 @@
 ## In-class notes
 
 ## Post class notes
+- amazon fires discussion worked well
+- vitousek paper is great

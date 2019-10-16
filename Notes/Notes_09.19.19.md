@@ -25,3 +25,4 @@
 ## In-class notes
 
 ## Post class notes
+- fun mini-quiz

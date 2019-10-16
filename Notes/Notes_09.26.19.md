@@ -20,3 +20,4 @@
 ## In-class notes
 
 ## Post class notes
+- great MQ discussion!

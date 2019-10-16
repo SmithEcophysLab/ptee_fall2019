@@ -19,3 +19,5 @@
 ## In-class notes
 
 ## Post class notes
+- energy and water balance are new topics, this is important
+- not enough time to get all the way through water

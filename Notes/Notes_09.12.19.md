@@ -21,3 +21,4 @@
 ## In-class notes
 
 ## Post class notes
+- miniquiz is pretty basic, maybe bring in a current event?

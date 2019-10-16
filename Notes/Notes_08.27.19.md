@@ -31,3 +31,6 @@ and Web of Science (through the [TTU libraries](https://www.depts.ttu.edu/librar
 - change deliverable to review in schedule
 
 ## Post class notes
+- paired intros worked well
+	- might be tougher with a larger class
+- at some point need to intro what a review paper is and how it differs from the topic leads

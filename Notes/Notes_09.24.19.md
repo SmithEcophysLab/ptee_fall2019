@@ -19,3 +19,4 @@
 ## In-class notes
 
 ## Post class notes
+- lots to go over in this lecture, but it seemed fairly digestable

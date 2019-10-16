@@ -19,3 +19,6 @@
 ## In-class notes
 
 ## Post class notes
+- need to go slower
+- soils discussion could go in the nutrients lecture later on
+- probably need to refresh climate change
