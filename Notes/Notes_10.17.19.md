@@ -9,7 +9,9 @@
 		- send Dr. Smith an [email](mailto:nick.smith@ttu.edu) to set up a time to do this
 2. Miniquiz 5
 	- [link to Miniquiz 5](../Mini_Quizzes/miniquiz5_10.17.19.pdf)
-2. Discussion of Palta et al. (2017)
+3. Note about yield gaps
+	- [link to slides](../Lecture_Slides/8_yield_gaps.pdf)
+4. Discussion of Palta et al. (2017)
 	- Leads: Juan, Brett, Riley
 
 ## Homework
