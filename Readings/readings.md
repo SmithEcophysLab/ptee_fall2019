@@ -49,7 +49,8 @@ Palta MM, Grimm NB, Groffman PM. 2017.
 Chapters 10-11 of textbook
 
 ### October 24
-TBD
+Start D, Weis AE, Gilbert B. 2019. Indirect Interactions Shape Selection in a Multispecies Food Web. 
+*The American Naturalist* 193: 321–330.
 
 ### October 29
 Chapters 12-13 of textbook

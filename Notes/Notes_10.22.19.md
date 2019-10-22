@@ -8,7 +8,7 @@
 	- [link to slides](../Lecture_Slides/8_trophic_dynamics.pdf)
 
 ## Homework
-* Read TBD
+* Read Start et al. (2019)
 	- the PDF is posted on the Course Blackboard page
 
 ## In-class notes
