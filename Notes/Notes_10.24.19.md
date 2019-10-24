@@ -1,4 +1,4 @@
-# Notes for class on October 17, 2019
+# Notes for class on October 24, 2019
 
 ## Objectives
 * Continue discussing species effects on ecosystems
