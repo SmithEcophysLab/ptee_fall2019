@@ -56,10 +56,14 @@ Start D, Weis AE, Gilbert B. 2019. Indirect Interactions Shape Selection in a Mu
 Chapters 12-13 of textbook
 
 ### October 31
-TBD
+Questad EJ, Foster BL. 2008. 
+Coexistence through spatio‐temporal heterogeneity and species sorting in grassland plant communities. 
+*Ecology letters* 11: 717–726.
 
 ### November 5
 Chapter 14 of textbook
 
 ### November 7
-TBD
+Ricke KL, Orr JC, Schneider K, Caldeira K. 2013. 
+Risks to coral reefs from ocean carbonate chemistry changes in recent earth system model projections. 
+*Environmental Research Letters* 8: 34003.
