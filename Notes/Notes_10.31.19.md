@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Miniquiz 7
-	- [link to Miniquiz 7](../Mini_Quizzes/miniquiz7_10.26.19.pdf)
+	- [link to Miniquiz 7](../Mini_Quizzes/miniquiz7_10.31.19.pdf)
 2. Discussion of TBD
 	- Leads: David H., Jorge, Natalie, Thalia
 

@@ -12,7 +12,7 @@
 	- [link to slides](../Lecture_Slides/10_space_time.pdf)
 
 ## Homework
-* Read TBD
+* Read Questad and Foster (2008)
 	- the PDF is posted on the Course Blackboard page
 
 ## In-class notes
