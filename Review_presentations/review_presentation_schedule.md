@@ -1,12 +1,12 @@
 # Schedule for the review paper oral presentations
 
 ## November 12
-1. Morgan Long
+1. Evan Perkowski
 2. Juan Garcia-Cancel
 3. Brett Andersen
 
 ## November 14
-1. Evan Perkowski
+1. Morgan Long
 2. Kelly McMillen
 3. Riley Risinger
 

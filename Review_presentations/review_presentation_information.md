@@ -17,4 +17,5 @@ Both the written and oral proposal will be graded. Please refer to the
 if you have additional questions.
 
 ### Schedule
-The schedule will be randomly assigned. The full schedule will be posted [here](review_presentation_schedule.md).
+The schedule will be randomly assigned. The full schedule is posted [here](review_presentation_schedule.md).
+Please plan to attend all presentations. Attendance points will be worth double on these days.
