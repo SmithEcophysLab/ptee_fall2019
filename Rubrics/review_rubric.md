@@ -1,4 +1,4 @@
-# Grading rubric for final review paper and presentation
+# Grading rubric for final review paper and oral presentation
 As mentioned in the syllabus,
 the primary semester project will be to produce a review paper. 
 Broadly, the review paper should address a question or problem related 
@@ -6,9 +6,10 @@ to ecosystem ecology.
 The review should be forward thinking, in that it forms the
 basis for understanding ecosystem processes, including responses and/or feedbacks,
 moving forward.
-The deliverable will be assessed for completeness, breadth, originality,scientific rigor 
+The review will be assessed for completeness, breadth, originality, scientific rigor 
 and presentation.
 The description and scoring for each of these components is laid out below.
+Both the review paper and oral presentation will be graded for the same elements.
 
 ## Structure
 **All papers must include a cover page with the title, authors, and 
@@ -36,6 +37,11 @@ An expanded description of a successful literature review can be found in the
 [Literature_Review folder](../Literature_Review/literature_review_description.md)
 
 ## Grading Rubric (100 points total)
+Both the review paper and oral presentation will be graded using the rubric below.
+The oral presentation should address the primary insights and findings from the review
+paper, but does not need to cover all the information from the paper.
+As such, the oral presentation will test your ability to summarize the main findings without
+sacrificing the quality of the work.
 
 ### Completeness (30 points)
 The review begins with a logical introduction that includes a statement of the
@@ -56,8 +62,10 @@ strongly encouraged. All unoriginal facts and figures should be correctly cited.
 
 ### Presentation (20 points)
 The review should be presented in a clear, concise manner appropriate for the
-defined audience. All documents should use proper English grammar and notation
-appropriate for the deliverable type. All figures and images should be clearly presented
-with all elements fully defined.
+defined audience. All documents should use proper English grammar and notation. 
+All figures and images should be clearly presented
+with all elements fully defined. The review paper should have all information in writing.
+In the oral presentation, elements can be verbally described and/or described using slides.
+In the oral presentation, please try to avoid adding excessive text that can be conveyed verbally.
 
 
