@@ -18,4 +18,4 @@ if you have additional questions.
 
 ### Schedule
 The schedule will be randomly assigned. The full schedule is posted [here](review_presentation_schedule.md).
-Please plan to attend all presentations. Attendance points will be worth double on these days.
+Please plan to attend all presentations. Participation points will be worth double on these days.
