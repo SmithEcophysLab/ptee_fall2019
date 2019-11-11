@@ -11,6 +11,7 @@
 
 ## Homework
 * Work on your review paper
+* REMINDER: NO CLASS NEXT WEEK
 
 ## In-class notes
 
