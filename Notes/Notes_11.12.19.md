@@ -9,6 +9,8 @@
 	- Casey Williams (recent TTU PhD)
 	- The Local Bar and Grill
 	- Doors at 5, speaker at 6
+2. Grade up on Blackboard
+	- **please check and see Dr. Smith if things look incorrect**
 2. Review presentations
 	- Evan
 	- Juan
