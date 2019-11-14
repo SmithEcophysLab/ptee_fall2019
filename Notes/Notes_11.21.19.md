@@ -1,7 +1,7 @@
 # Notes for class on November 21, 2019
 
 ## Objectives
-* Begin review presentations
+* Continue review presentations
 
 ## Agenda
 1. Review presentations
