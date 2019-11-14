@@ -23,3 +23,5 @@
 ## In-class notes
 
 ## Post class notes
+Th MQ worked for building discussion, but was pretty straight forward. I would try something
+more nuanced the next go around.

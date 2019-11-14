@@ -18,3 +18,5 @@
 ## In-class notes
 
 ## Post class notes
+Might want to emphasize the methods used for prediction to better set up the miniquiz later
+in the week. The discussion of "are disturbances bad" was generally pretty good.

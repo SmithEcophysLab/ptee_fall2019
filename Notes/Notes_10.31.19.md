@@ -18,3 +18,6 @@
 ## In-class notes
 
 ## Post class notes
+The class had a hard  time with experimental design necessary to answer the MQ question.
+This led to a good discussion of ED and the options for trying to make future predictions
+(e.g., space for time, manipulations, models, etc.).

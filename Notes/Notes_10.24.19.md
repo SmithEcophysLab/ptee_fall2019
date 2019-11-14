@@ -21,3 +21,4 @@
 ## In-class notes
 
 ## Post class notes
+Good discussion from this MQ. Not too much to add here.

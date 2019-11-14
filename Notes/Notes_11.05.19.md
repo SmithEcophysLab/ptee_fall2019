@@ -21,3 +21,5 @@
 ## In-class notes
 
 ## Post class notes
+The lecture went well, but was a lot of review material. Should save more time for the activity
+at the end. If the miniquiz is a review, then you can build in more application questions here.

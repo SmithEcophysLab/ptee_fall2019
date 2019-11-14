@@ -14,3 +14,5 @@
 ## In-class notes
 
 ## Post class notes
+Students seemed to like this, but also seemed pretty knowledgeable about the topic.
+Maybe focus more on diversity?
